@@ -6,5 +6,5 @@ export const COMPANY = {
   mapsUrl:
     'https://www.google.com/maps/search/?api=1&query=' +
     encodeURIComponent('Av. Zélia, 62 - Parque dos Camargos, Barueri - SP, 06436-000'),
-  instagramUrl: 'https://www.instagram.com/',
+  instagramUrl: 'https://www.instagram.com/horusreparosautomotivos/',
 } as const;
